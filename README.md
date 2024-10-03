@@ -1,18 +1,6 @@
-## Getting Started
+## Assignment 6 
+By Samuel Najera
 
-Welcome to the VS Code Java world. Here is a guideline to help you get started to write Java code in Visual Studio Code.
-
-## Folder Structure
-
-The workspace contains two folders by default, where:
-
-- `src`: the folder to maintain sources
-- `lib`: the folder to maintain dependencies
-
-Meanwhile, the compiled output files will be generated in the `bin` folder by default.
-
-> If you want to customize the folder structure, open `.vscode/settings.json` and update the related settings there.
-
-## Dependency Management
-
-The `JAVA PROJECTS` view allows you to manage your dependencies. More details can be found [here](https://github.com/microsoft/vscode-java-dependency#manage-dependencies).
+This is a program meant to demonstrate class inheritence and methods. There is a superclass, Animal, that has set parameters and two public methods.
+There are two subclasses, Fish and Zebra, that inherit those parameters and methods and have their own methods exclusive to them. This exercise demonstrates
+establishing these classes and subclasses, as well as calling their associated methods.
